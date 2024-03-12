@@ -32,8 +32,7 @@ build/
 ### VS Code ###
 .vscode/
 
-
-### Java Template GitHub ###
+### GitHub Java Template ###
 # Compiled class file
 *.class
 
